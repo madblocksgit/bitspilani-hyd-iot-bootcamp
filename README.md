@@ -1,6 +1,9 @@
 # bitspilani-hyd-iot-bootcamp
 Official Repo to share my work for BITS Pilani Hyderabad Campus 4-day IoT Bootcamp
 
+# To Ask questions, join my discord server
+maddyworkspace Discord Server (https://discord.gg/BDSRqRW7)
+
 # Softwares
 1. Arduino (https://www.arduino.cc/en/software)
 2. Fritzing for Schematic Design
