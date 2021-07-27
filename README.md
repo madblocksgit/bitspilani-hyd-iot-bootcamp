@@ -8,4 +8,4 @@ Official Repo to share my work for BITS Pilani Hyderabad Campus 4-day IoT Bootca
 
 # Pinouts
 
-<img src="Arduino-Uno-Pinout-1.png" height="500" width="500" />
+<img src="Arduino-Uno-Pinout-1.png" height="300" width="600" />
