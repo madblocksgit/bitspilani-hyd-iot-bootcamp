@@ -4,6 +4,9 @@ Official Repo to share my work for BITS Pilani Hyderabad Campus 4-day IoT Bootca
 # To Ask questions, join my discord server
 maddyworkspace Discord Server (https://discord.gg/BDSRqRW7)
 
+# Lab Manual
+BITS Pilani madBlocks Docs (https://bitplab.madblocks.tech)
+
 # Softwares
 1. Arduino (https://www.arduino.cc/en/software)
 2. Fritzing for Schematic Design
@@ -25,4 +28,8 @@ maddyworkspace Discord Server (https://discord.gg/BDSRqRW7)
 08. Interfacing MQ Sensor with Arduino Uno
 09. Interfacing IR Sensor with Arduino Uno
 10. Interfacing Light Sensor with Arduino Uno
-
+11. Interfacing Servo Motor with Arduino Uno
+12. Interfacing Ultrasonic Sensor with Arduino Uno
+13. Interfacing DHT11 with Arduino Uno
+14. Interfacing LCD Display with Arduino Uno
+15. Interfacing Relay with Arduino Uno
