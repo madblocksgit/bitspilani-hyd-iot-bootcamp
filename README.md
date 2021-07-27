@@ -5,7 +5,7 @@ Official Repo to share my work for BITS Pilani Hyderabad Campus 4-day IoT Bootca
 maddyworkspace Discord Server (https://discord.gg/BDSRqRW7)
 
 # Lab Manual
-BITS Pilani madBlocks Docs (https://bitplab.madblocks.tech)
+BITS Pilani madBlocks Docs (http://bitplab.madblocks.tech)
 
 # Softwares
 1. Arduino (https://www.arduino.cc/en/software)
