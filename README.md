@@ -11,6 +11,7 @@ BITS Pilani madBlocks Docs (http://bitsplab.madblocks.tech)
 1. Arduino (https://www.arduino.cc/en/software)
 2. Fritzing for Schematic Design (https://onedrive.live.com/?authkey=%21AJ4yupk5PGV2vs0&cid=56559D033B70DDA3&id=56559D033B70DDA3%21929397&parId=56559D033B70DDA3%211006996&action=locate)
 3. Tinker Cad (https://www.tinkercad.com)
+4. Google Colab (https://colab.research.google.com)
 
 # Pinouts
 
