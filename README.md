@@ -17,6 +17,8 @@ BITS Pilani madBlocks Docs (http://bitsplab.madblocks.tech)
 
 1. Arduino
 <img src="Arduino-Uno-Pinout-1.png"  width="895" height="631"/>
+2. Raspberry
+<img src="Raspberry-GPIO.jpg" />
 
 # Day1 Hands-On
 01. Interfacing LED with Arduino Uno
