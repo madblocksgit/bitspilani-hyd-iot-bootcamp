@@ -75,6 +75,6 @@ BITS Pilani madBlocks Docs (http://bitsplab.madblocks.tech)
 06. Pushing Sensory Data onto the Blynk App 
 
 # Contact
-Madhu Parvathaneni
-mad@madblocks.tech
-0-7893015625
+Madhu Parvathaneni <Br/>
+mad@madblocks.tech <br/>
+0-7893015625 <br/>
