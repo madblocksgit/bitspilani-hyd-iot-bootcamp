@@ -16,8 +16,11 @@ BITS Pilani madBlocks Docs (http://bitsplab.madblocks.tech)
 # Pinouts
 
 1. Arduino
+
 <img src="Arduino-Uno-Pinout-1.png"  width="895" height="631"/>
+
 2. Raspberry
+
 <img src="Raspberry-GPIO.jpg" />
 
 # Day1 Hands-On
