@@ -73,3 +73,8 @@ BITS Pilani madBlocks Docs (http://bitsplab.madblocks.tech)
 04. Sign Language Translator - Maching Learning Project
 05. Controlling Bulb from Blynk   
 06. Pushing Sensory Data onto the Blynk App 
+
+# Contact
+Madhu Parvathaneni
+mad@madblocks.tech
+0-7893015625
