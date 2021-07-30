@@ -25,12 +25,46 @@ BITS Pilani madBlocks Docs (http://bitsplab.madblocks.tech)
 04. Interfacing Buzzer with Arduino Uno
 05. Serial Communication with Arduino Uno
 06. Interfacing Pot with Arduino Uno
-07. Interfacing Soil Moisture Sensor with Arduino Uno
-08. Interfacing MQ Sensor with Arduino Uno
-09. Interfacing IR Sensor with Arduino Uno
-10. Interfacing Light Sensor with Arduino Uno
-11. Interfacing Servo Motor with Arduino Uno
-12. Interfacing Ultrasonic Sensor with Arduino Uno
-13. Interfacing DHT11 with Arduino Uno
-14. Interfacing LCD Display with Arduino Uno
-15. Interfacing Relay with Arduino Uno
+07. Interfacing Servo Motor with Arduino Uno
+08. Interfacing Ultrasonic Sensor with Arduino Uno
+09. Interfacing L293D with Arduino Uno
+10. Interfacing LCD Display with Arduino Uno
+11. Interfacing PIR Sensor with Arduino Uno
+
+
+# Day2 Hands-on
+01. Interfacing MQ Sensor with Arduino Uno
+02. Interfacing IR Sensor with Arduino Uno
+03. Interfacing Light Sensor with Arduino Uno
+04. Interfacing Soil Moisture Sensor with Arduino Uno
+05. Interfacing Rainfall Sensor with Arduino Uno
+06. Interfacing Vibration Sensor with Arduino Uno
+07. Interfacing MQ2 Sensor with Arduino Uno
+08. Interfacing MQ3 Sensor with Arduino Uno
+09. Interfacing Flame Sensor with Arduino Uno
+10. Interfacing Relay with Arduino Uno
+11. Interfacing DHT11 Sensor with Arduino Uno
+12. Controlling Relay through Google Colab
+13. Uploading Data to all the Subscribers using MQTT      
+
+# Day3 Hands-on
+01. Creating an account in Thingspeak IoT Cloud
+02. Creating a Channel in Thingspeak IoT Cloud
+03. Uploading Data to Thingspeak IoT Cloud
+04. Downloading Data on to the Mobile App  
+05. Controlling a device through Thingspeak IoT Cloud
+06. Creating an account in AWS 
+07. Creating an instance in AWS EC2 
+08. Executing a python script on AWS EC2
+09. Deploying MQTT Broker on AWS EC2
+10. Deploying mongodb Server on AWS EC2
+11. Uploading Data to AWS EC2
+12. Storing Data in mongodb server on AWS EC2  
+
+# Day4 Hands-on
+01. Interfacing LED with Raspberry Pi
+02. Interfacing Button with Raspberry Pi
+03. Interfacing DHT11 with Raspberry Pi
+04. Sign Language Translator - Maching Learning Project
+05. Controlling Bulb from Blynk   
+06. Pushing Sensory Data onto the Blynk App 
